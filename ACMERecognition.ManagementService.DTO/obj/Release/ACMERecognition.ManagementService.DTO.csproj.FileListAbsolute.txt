@@ -1,0 +1,8 @@
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\bin\Release\ACMERecognition.ManagementService.DTO.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\bin\Release\ACMERecognition.ManagementService.DTO.pdb
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\bin\Release\Newtonsoft.Json.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\bin\Release\Newtonsoft.Json.xml
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\obj\Release\ACMERecognition.ManagementService.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\obj\Release\ACMERecognition.ManagementService.DTO.csproj.CopyComplete
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\obj\Release\ACMERecognition.ManagementService.DTO.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\obj\Release\ACMERecognition.ManagementService.DTO.pdb

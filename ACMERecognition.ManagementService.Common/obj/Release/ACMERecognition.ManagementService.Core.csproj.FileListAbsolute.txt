@@ -1,0 +1,15 @@
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\bin\Release\ACMERecognition.ManagementService.Common.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\bin\Release\ACMERecognition.ManagementService.Common.pdb
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\bin\Release\ACMERecognition.ManagementService.DTO.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\bin\Release\ACMERecognition.ManagementService.Logic.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\bin\Release\Nancy.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\bin\Release\Newtonsoft.Json.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\bin\Release\ACMERecognition.ManagementService.DTO.pdb
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\bin\Release\ACMERecognition.ManagementService.Logic.pdb
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\bin\Release\Nancy.xml
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\bin\Release\Newtonsoft.Json.xml
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\obj\Release\ACMERecognition.ManagementService.Core.csprojAssemblyReference.cache
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\obj\Release\ACMERecognition.ManagementService.Core.csproj.CoreCompileInputs.cache
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\obj\Release\ACMERecognition.ManagementService.Core.csproj.CopyComplete
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\obj\Release\ACMERecognition.ManagementService.Common.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Common\obj\Release\ACMERecognition.ManagementService.Common.pdb

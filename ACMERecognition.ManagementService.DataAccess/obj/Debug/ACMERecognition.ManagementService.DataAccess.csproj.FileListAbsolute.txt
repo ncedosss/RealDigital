@@ -1,0 +1,6 @@
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\bin\Debug\ACMERecognition.ManagementService.DataAccess.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\bin\Debug\ACMERecognition.ManagementService.DataAccess.pdb
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\obj\Debug\ACMERecognition.ManagementService.DataAccess.csprojAssemblyReference.cache
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\obj\Debug\ACMERecognition.ManagementService.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\obj\Debug\ACMERecognition.ManagementService.DataAccess.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\obj\Debug\ACMERecognition.ManagementService.DataAccess.pdb

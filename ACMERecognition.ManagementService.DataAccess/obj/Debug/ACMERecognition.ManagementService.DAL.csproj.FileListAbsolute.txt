@@ -1,0 +1,8 @@
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\bin\Debug\ACMERecognition.ManagementService.DataAccess.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\bin\Debug\ACMERecognition.ManagementService.DataAccess.pdb
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\obj\Debug\ACMERecognition.ManagementService.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\obj\Debug\ACMERecognition.ManagementService.DAL.csproj.CopyComplete
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\obj\Debug\ACMERecognition.ManagementService.DataAccess.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DataAccess\obj\Debug\ACMERecognition.ManagementService.DataAccess.pdb

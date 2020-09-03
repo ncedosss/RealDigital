@@ -1,0 +1,8 @@
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\bin\Debug\ACMERecognition.ManagementService.DTO.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\bin\Debug\ACMERecognition.ManagementService.DTO.pdb
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\obj\Debug\ACMERecognition.ManagementService.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\obj\Debug\ACMERecognition.ManagementService.DTO.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\obj\Debug\ACMERecognition.ManagementService.DTO.pdb
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.DTO\obj\Debug\ACMERecognition.ManagementService.DTO.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Logic\bin\Release\ACMERecognition.ManagementService.Logic.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Logic\bin\Release\ACMERecognition.ManagementService.Logic.pdb
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Logic\bin\Release\ACMERecognition.ManagementService.DTO.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Logic\bin\Release\Newtonsoft.Json.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Logic\bin\Release\ACMERecognition.ManagementService.DTO.pdb
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Logic\bin\Release\Newtonsoft.Json.xml
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Logic\obj\Release\ACMERecognition.ManagementService.Logic.csprojAssemblyReference.cache
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Logic\obj\Release\ACMERecognition.ManagementService.Logic.csproj.CoreCompileInputs.cache
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Logic\obj\Release\ACMERecognition.ManagementService.Logic.csproj.CopyComplete
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Logic\obj\Release\ACMERecognition.ManagementService.Logic.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Logic\obj\Release\ACMERecognition.ManagementService.Logic.pdb

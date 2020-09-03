@@ -1,0 +1,5 @@
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Tests\bin\Debug\ACMERecognition.ManagementService.Tests.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Tests\bin\Debug\ACMERecognition.ManagementService.Tests.pdb
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Tests\obj\Debug\ACMERecognition.ManagementService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Tests\obj\Debug\ACMERecognition.ManagementService.Tests.dll
+C:\Users\ncedolethum\source\repos\ACMERecognition.Mangement.WebAPI\ACMERecognition.ManagementService.Tests\obj\Debug\ACMERecognition.ManagementService.Tests.pdb
